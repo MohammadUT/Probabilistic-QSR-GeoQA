@@ -18,7 +18,7 @@ This includes codes, data, evidence sets, and mln folders for two experiments:
 - mln: Markov Logic Network (MLN) implementation of point-based CDC and region-based RCC relations required as input for Probcog and SparQ reasoners (This obtained from the study of [Duckham, M., Gabela, J., Kealy, A., Kyprianou, R., Legg, J., Moran, B., Rumi, S. K., Salim, F. D., Tao, Y., & Vasardani, M. (2023). Qualitative spatial reasoning with uncertain evidence using Markov logic networks. *International Journal of Geographical Information Science, 37*(9), 2067-2100. Taylor & Francis.](https://www.tandfonline.com/doi/full/10.1080/13658816.2023.2231044)
 .
 
-# File Description
+# File Description 
 
 Each experiment follows the following steps for generating answers for input questions:
 
